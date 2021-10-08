@@ -40,7 +40,7 @@ const nextPage=()=>{
 }
 return(
 <div>
-    <table className="table table-bordered" id="customers" style={{fontSize:"11px",textAlign:"center"}}>
+    <table className="table table-bordered tables" style={{fontSize:"11px",textAlign:"center"}}>
         <th>ID</th>
         <th>NAME</th>
         <th>TAGLINE</th>
